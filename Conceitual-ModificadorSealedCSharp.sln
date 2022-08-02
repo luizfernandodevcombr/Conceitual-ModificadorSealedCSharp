@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conceitual-ModificadorSealedCSharp", "Conceitual-ModificadorSealedCSharp\Conceitual-ModificadorSealedCSharp.csproj", "{36ADF88D-E430-43A1-A73D-507B91F839AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conceitual-ModificadorSealedCSharp.ConsoleApp", "Conceitual-ModificadorSealedCSharp.ConsoleApp\Conceitual-ModificadorSealedCSharp.ConsoleApp.csproj", "{BF6F4DEA-48C3-41EA-8FD3-8EF7C4B2C870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36ADF88D-E430-43A1-A73D-507B91F839AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36ADF88D-E430-43A1-A73D-507B91F839AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36ADF88D-E430-43A1-A73D-507B91F839AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36ADF88D-E430-43A1-A73D-507B91F839AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6F4DEA-48C3-41EA-8FD3-8EF7C4B2C870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6F4DEA-48C3-41EA-8FD3-8EF7C4B2C870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6F4DEA-48C3-41EA-8FD3-8EF7C4B2C870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6F4DEA-48C3-41EA-8FD3-8EF7C4B2C870}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB0D6981-2F41-4181-B8D8-F840487F2499}
+	EndGlobalSection
+EndGlobal
